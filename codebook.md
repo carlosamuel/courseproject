@@ -2,6 +2,8 @@
 
 ##The output text file includes the following variables.
 
+* Subject_id
+* Activity
 * tBodyAccelerator-mean()-X
 * tBodyAccelerator-mean()-Y
 * tBodyAccelerator-mean()-Z
@@ -84,3 +86,8 @@
 * angle(X,gravityMean)
 * angle(Y,gravityMean)
 * angle(Z,gravityMean)
+
+
+There was no distinction made between test ot train subjects so if any diferentation is intended please refer to the original files in order to identify which subjects belong to which group
+
+
