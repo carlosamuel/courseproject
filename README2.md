@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #README FILE
 
 ## R Script
@@ -14,6 +13,3 @@
 * Groups the data by the required variables (subject and activity)
 *Generates the output text file
 
-=======
-# courseproject
->>>>>>> a5f3274bcae12bb2614cf067086590ccd1ab82b5
